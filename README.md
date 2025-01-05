@@ -114,6 +114,10 @@ Os scripts podem ser executados individualmente conforme a necessidade, seguindo
 
 Este projeto demonstra como trabalhar com grandes volumes de dados de energia renovável, realizando a conversão de valores, tratamento de dados brutos e visualização dos resultados em uma interface web simples e intuitiva.
 
+## Links Úteis 
 
+- [Apresentação Final do Projeto](https://docs.google.com/presentation/d/1XfqIwe0AOSuTt2DtdIf80cUxrfXfACrO/edit?usp=sharing&ouid=112145815139864101088&rtpof=true&sd=true): Esta apresentação foi utilizada para que a banca examinadora compreendesse as ideias, construções e conclusões do projeto. Esperamos que seja esclarecedora para todos que desejarem conhecer mais sobre nosso trabalho.
+
+- [Video demonstrativo do projeto](https://drive.google.com/file/d/1xf-ABFe0pCWcwtSlXMC6V9RMIRgdN88R/view?usp=sharing): Como parte da entrega final, fizemos um vídeo, para ficar claro a banca e aos convidados, o potêncial análitico do projeto.
 
 ---

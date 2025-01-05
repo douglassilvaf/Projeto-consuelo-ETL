@@ -114,8 +114,6 @@ Os scripts podem ser executados individualmente conforme a necessidade, seguindo
 
 Este projeto demonstra como trabalhar com grandes volumes de dados de energia renovável, realizando a conversão de valores, tratamento de dados brutos e visualização dos resultados em uma interface web simples e intuitiva.
 
-## Links Úteis
 
-- [Repositório no GitHub](https://github.com/seu_usuario/projeto-energia-renovavel) - Acesse o código-fonte completo deste projeto.
 
 ---
